@@ -1,0 +1,5 @@
+fil.txt: No such file or directory
+fil.txt: No such file or directory
+BOOMB!!!fil.txt: No such file or directory
+file BOOMB
+fil.txt: No such file or directory
